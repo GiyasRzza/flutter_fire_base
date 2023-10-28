@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "664214738424",
+    "firebase_url": "https://flutterfire-9efcd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutterfire-9efcd",
+    "storage_bucket": "flutterfire-9efcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664214738424:android:37aa572476763c603ff20d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNVgZa5pAa8TRqyU_aOZ3ZW_S9IJe-Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
